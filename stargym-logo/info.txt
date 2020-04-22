@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: HKGrotesk-Bold
+font link: https://hanken.co/product/hk-grotesk/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+Slogan Font: WorkSans-Light.ttf
+
+icon designer: Cédric Villain
+icon designer link: /cedricvillain
+        
+{"bg":"#FDEDDF","icon-gradient-0":"#E63500","icon-gradient-1":"#FFC316","font":"#361A02","slogan":"#4a2e16"}
+      
